@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TiempoyNoticiasSalvador</string>
+    <string name="volver">Return</string>
+    <string name="noticias">News</string>
+    <string name="tiempo">Weather</string>
+    <string name="mostrar">Show</string>
+</resources>

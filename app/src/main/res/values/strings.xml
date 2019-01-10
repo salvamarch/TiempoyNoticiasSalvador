@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TiempoyNoticiasSalvador</string>
+    <string name="volver">Volver</string>
+    <string name="noticias">Noticias</string>
+    <string name="tiempo">Tiempo</string>
+    <string name="mostrar">Mostrar</string>
+</resources>
